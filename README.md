@@ -12,6 +12,12 @@ This repository is part of the 2nd NELIREF Data Science & AI Summer School 2025,
 
 **geeksforgeeks:** https://www.geeksforgeeks.org/python-data-structures/?ref=header_search
 
-**w3schools:** https://www.w3schools.com/python/python_datatypes.asp and https://www.w3schools.com/python/
+**Python Datatypes - w3schools:** https://www.w3schools.com/python/python_datatypes.asp
 
 **DSA:** https://www.w3schools.com/dsa/
+
+Python official documentation: https://docs.python.org/3/tutorial/index.html
+
+Python Tutorial at W3Schools: https://www.w3schools.com/python/
+
+Practical Python Programming: https://dabeaz-course.github.io/practical-python/Notes/Contents.html
