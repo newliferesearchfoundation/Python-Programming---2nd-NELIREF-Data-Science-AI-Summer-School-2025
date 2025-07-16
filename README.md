@@ -16,8 +16,8 @@ This repository is part of the 2nd NELIREF Data Science & AI Summer School 2025,
 
 **DSA:** https://www.w3schools.com/dsa/
 
-Python official documentation: https://docs.python.org/3/tutorial/index.html
+**Python official documentation:** https://docs.python.org/3/tutorial/index.html
 
-Python Tutorial at W3Schools: https://www.w3schools.com/python/
+**Python Tutorial at W3Schools:** https://www.w3schools.com/python/
 
-Practical Python Programming: https://dabeaz-course.github.io/practical-python/Notes/Contents.html
+**Practical Python Programming:** https://dabeaz-course.github.io/practical-python/Notes/Contents.html
