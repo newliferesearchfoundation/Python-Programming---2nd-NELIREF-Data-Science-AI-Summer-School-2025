@@ -7,3 +7,11 @@ This repository is part of the 2nd NELIREF Data Science & AI Summer School 2025,
 **Instructor:** Amos Aondover Kwaghfan 
 
 **Teaching Assistants (TAs):** Peter Denen Tsaha, Emmanuel Ocholi Benjamin and Terkuma Saaondo
+
+**Tutorials:**
+
+**geeksforgeeks:** https://www.geeksforgeeks.org/python-data-structures/?ref=header_search
+
+**w3schools:** https://www.w3schools.com/python/python_datatypes.asp and https://www.w3schools.com/python/
+
+**DSA:** https://www.w3schools.com/dsa/
