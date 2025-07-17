@@ -10,7 +10,7 @@ This repository is part of the 2nd NELIREF Data Science & AI Summer School 2025,
 
 **Tutorials:**
 
-**geeksforgeeks:** https://www.geeksforgeeks.org/python-data-structures/?ref=header_search
+**Python Data Structures - geeksforgeeks:** https://www.geeksforgeeks.org/python-data-structures/?ref=header_search
 
 **Python Datatypes - w3schools:** https://www.w3schools.com/python/python_datatypes.asp
 
